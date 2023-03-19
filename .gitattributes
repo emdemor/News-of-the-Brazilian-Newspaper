@@ -1,1 +1,1 @@
-data/brazilian-news.csv filter=lfs diff=lfs merge=lfs -text
+data/brazilian-news.parquet filter=lfs diff=lfs merge=lfs -text
